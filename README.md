@@ -1,2 +1,2 @@
-# University
+# University Projects
 Project made during University.
