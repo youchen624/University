@@ -1,8 +1,27 @@
 # 忽略所有日誌
 *.log
 
+# 忽略window 潔淨
+*.lnk
+
 # 忽略vs code檔案
 .vscode/
+*.code-workspace
 
 # 忽略機密
 .env
+
+# 忽略編譯後的檔案
+*.exe
+**/node_modules/*
+**/dist/*
+**/build/*
+
+# 備份檔
+**/_bk/*
+
+# 參考檔
+**/_ref/*
+
+# PictrueViewer 特殊例外
+last-img.png

@@ -1,0 +1,6 @@
+npm init -y
+npm install electron --save-dev
+npm start
+
+
+npm install electron-builder --save-dev
