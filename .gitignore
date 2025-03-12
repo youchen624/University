@@ -1,8 +1,11 @@
 # 忽略所有日誌
 *.log
 
-# 忽略window 潔淨
+# 忽略window 捷徑
 *.lnk
+
+# 忽略設定
+config.json
 
 # 忽略vs code檔案
 .vscode/
