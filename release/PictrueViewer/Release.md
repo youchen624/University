@@ -9,6 +9,12 @@
 還能自訂縮放視窗尺寸比例，搭配 `Ctrl` 滾輪、`Shift` 滾輪，  
 還可以移動縮放圖片！！
 
+## 下載
+
+### [安裝版(單獨檔案) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20Setup%201.0.0.exe)
+
+### [免安裝版(壓縮檔) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20%E5%85%8D%E8%A3%9D%E7%89%88%201.0.0.zip)
+
 ## 說明
 
 - 右鍵圖片可直接進行複製或貼上操作  
