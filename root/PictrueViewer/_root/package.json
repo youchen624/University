@@ -3,10 +3,33 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "build": {
+    "appId": "com.example.floatingimageviewer",
+    "asar": false,
+    "productName": "圖片檢視器",
+    "extraMetadata": {
+      "description": "一個簡單的圖片檢視器。",
+      "author": "youchen624"
+    },
+    "win": {
+    "requestedExecutionLevel": "asInvoker",
+      "target": "nsis",
+      "icon": "assets/icon.ico"
+    },
+    "files": [
+      "main.js",
+      "assets/**/*"
+    ],
+    "directories": {
+      "output": "dist"
+    }
   },
   "devDependencies": {
-    "electron": "^28.3.3"
+    "electron": "^28.3.3",
+    "electron-builder": "^25.1.8"
   },
   "keywords": [],
   "author": "",

@@ -16,15 +16,17 @@ config.json
 .env
 
 # 忽略編譯後的檔案
-*.exe
 **/node_modules/*
 **/dist/*
 **/build/*
 
 # 備份檔
+*.bk
+*.backup
 **/_bk/*
 **/.bk/*
 **/.backup/*
+*.old
 
 # TODO
 TODO
