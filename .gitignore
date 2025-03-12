@@ -6,6 +6,7 @@
 
 # 忽略設定
 config.json
+**/config/*
 
 # 忽略vs code檔案
 .vscode/
@@ -22,9 +23,18 @@ config.json
 
 # 備份檔
 **/_bk/*
+**/.bk/*
+**/.backup/*
+
+# TODO
+TODO
 
 # 參考檔
 **/_ref/*
+**/.ref/*
 
 # PictrueViewer 特殊例外
 last-img.png
+
+# Discord-Werewolf 特殊例外
+/root/Discord-Werewolf/_root/data/*
