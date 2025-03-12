@@ -11,9 +11,9 @@
 
 ## 下載
 
-### [安裝版(單獨檔案) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20Setup%201.0.0.exe)
+- [安裝版(單獨檔案) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20Setup%201.0.0.exe)
 
-### [免安裝版(壓縮檔) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20%E5%85%8D%E8%A3%9D%E7%89%88%201.0.0.zip)
+- [免安裝版(壓縮檔) 1.0.0](https://github.com/youchen624/UniversityProjects/raw/refs/heads/main/release/PictrueViewer/app/%E5%9C%96%E7%89%87%E6%AA%A2%E8%A6%96%E5%99%A8%20%E5%85%8D%E8%A3%9D%E7%89%88%201.0.0.zip)
 
 ## 說明
 
